@@ -1,0 +1,5 @@
+/* #282E33 #2C3338 #363B41 진한 순으로 색 테마임*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url(https://fonts.googleapis.com/earlyaccess/notosanskr.css);
